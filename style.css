@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    background-image: url('frozen_acai.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+
+html {
+    margin: 210px 0px 0px 0px;
+}
+
+#col2 {
+    padding: 5px;
+}
+
+footer {
+    height: 100px;
+    padding: 0px;
+}
